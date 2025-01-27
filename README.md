@@ -46,6 +46,11 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ---
 
+### 📊 **GitHub Stats**  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanakahuja&show_icons=true&locale=en&layout=compact" alt="kanakahuja" /></p>
+
+---
+
 ### 🤝 **Connect with Me**  
 <p align="center">
 <a href="https://linkedin.com/in/kanakahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanakahuja" height="30" width="40" /></a>
@@ -53,8 +58,4 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 <a href="https://www.youtube.com/@codewithkanakahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithkanakahuja" height="30" width="40" /></a>
 </p>
 <p align="center"> 📧 Email: kanakahhuja@gmail.com </p>
----
-
-### 📊 **GitHub Stats**  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanakahuja&show_icons=true&locale=en&layout=compact" alt="kanakahuja" /></p>
 
