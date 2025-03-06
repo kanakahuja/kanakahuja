@@ -14,7 +14,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 - Python, Java, HTML, CSS, JavaScript, ReactJS, React Native, MySQL  
 
 #### **Technical Skills:**  
-- Machine Learning, Artificial Intelligence, Data Analysis, Software Engineering  
+- Machine Learning, Artificial Intelligence, Data Analysis, Software Engineering, OOPS, DBMS, Networking, and System Design  
 
 #### **Tools & Frameworks:**  
 - Power BI, TensorFlow, Keras, PyTorch, Seaborn, OpenCV, Redux, TailwindCSS  
