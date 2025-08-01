@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 **Introduction**  
-I am a B.Tech student specializing in Artificial Intelligence and Machine Learning at Vivekananda Institute of Professional Studies, Delhi, with a consistent academic record (93.8%). I am deeply passionate about leveraging technology to create impactful solutions, with expertise in frontend development, AI, and data-driven applications. I enjoy exploring new tools, frameworks, and methodologies to enhance user experiences and optimize workflows.
+I am a B.Tech student specializing in Artificial Intelligence and Machine Learning at Vivekananda Institute of Professional Studies, Delhi, with a consistent academic record (94.5%). I am deeply passionate about leveraging technology to create impactful solutions, with expertise in frontend development, AI, and data-driven applications. I enjoy exploring new tools, frameworks, and methodologies to enhance user experiences and optimize workflows.
 
 ---
 
@@ -14,10 +14,10 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 - Python, Java, HTML, CSS, JavaScript, ReactJS, React Native, MySQL  
 
 #### **Technical Skills:**  
-- Machine Learning, Artificial Intelligence, Data Analysis, Software Engineering, OOPS, DBMS, Networking, and System Design  
+- Machine Learning, Artificial Intelligence, Data Analysis, Software Engineering, OOPS, DBMS, Networking, Prompt Engineering, and System Design  
 
 #### **Tools & Frameworks:**  
-- Power BI, TensorFlow, Keras, PyTorch, Seaborn, OpenCV, Redux, TailwindCSS  
+- Power BI, TensorFlow, Keras, PyTorch, Seaborn, OpenCV, Redux, OpenAI GPT, ElevenLabs, Leonardo AI, Postman, TailwindCSS  
 
 #### **Soft Skills:**  
 - Analytical Thinking, Problem-Solving, Teamwork, Multitasking, Quick Learning  
