@@ -121,25 +121,6 @@ My college journey was about more than academics. It gave me opportunities to ex
 2. **Advancing Technology for Safer Roads** — Bharti Publications.
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kanakahuja&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Kanak's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakahuja&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Kanak's Top Languages"
-  />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
